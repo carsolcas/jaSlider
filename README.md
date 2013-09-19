@@ -1,0 +1,4 @@
+jaSlider
+========
+
+Just Another Slider
